@@ -4,6 +4,6 @@ A Common Lisp library for logging, tracing, testing and persistence.
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/melisgl/journal.git |
-| commit  | 0c81b28                                    |
+| commit  | e145910                                    |
 | systems | journal                                    |
 |---------+--------------------------------------------|
