@@ -4,6 +4,6 @@ A Common Lisp library for logging, tracing, testing and persistence.
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/melisgl/journal.git |
-| commit  | dcada2a                                    |
+| commit  | 01765dc                                    |
 | systems | journal                                    |
 |---------+--------------------------------------------|
